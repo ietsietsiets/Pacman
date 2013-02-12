@@ -1,5 +1,7 @@
 package NeuralNetwork.interfaces;
 
+//fetchtest
+
 import java.util.ArrayList;
 
 /**
