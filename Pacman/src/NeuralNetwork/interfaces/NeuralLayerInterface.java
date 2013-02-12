@@ -12,7 +12,7 @@ import java.util.ArrayList;
  */
  
  
-//fetchtest
+//fetchtest nummer zoveel a;flkjaef
 
 public interface NeuralLayerInterface {
 	/**
