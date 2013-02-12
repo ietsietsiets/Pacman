@@ -12,7 +12,7 @@ import java.util.ArrayList;
  */
  
  
-//fetchtest 2
+//Meer testen
 
 public interface NeuralLayerInterface {
 	/**
