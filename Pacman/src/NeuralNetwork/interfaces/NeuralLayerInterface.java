@@ -1,6 +1,5 @@
 package NeuralNetwork.interfaces;
 
-//fetchtest
 
 import java.util.ArrayList;
 
@@ -11,6 +10,9 @@ import java.util.ArrayList;
  * @author Eric de Kruijf
  * @version 0.1
  */
+ 
+ 
+//fetchtest
 
 public interface NeuralLayerInterface {
 	/**
