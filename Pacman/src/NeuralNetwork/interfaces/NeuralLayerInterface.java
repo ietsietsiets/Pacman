@@ -1,5 +1,7 @@
 package NeuralNetwork.interfaces;
 
+// Dit is een test, ik heb hier nu random comment neergezet om egit te testen
+
 import java.util.ArrayList;
 
 /**
